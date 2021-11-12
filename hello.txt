@@ -1,0 +1,4 @@
+echo "My name is Winfred"
+
+I am taking up a course on git for refresher purposes
+this is me i stopped using nano as an editor
