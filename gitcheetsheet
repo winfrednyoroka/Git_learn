@@ -1,0 +1,6 @@
+# handy commands for git
+
+git init tell git to start version control
+git status to start 
+git add  keep an eye on the document
+git commit -a remember the file in its current state (-a means remember all changed files that you are keeping an eye on)
